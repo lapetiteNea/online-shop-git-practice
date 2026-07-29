@@ -1,5 +1,5 @@
 [
-  { "id": 1, "title": "Laptop", "price": 1200 },
-  { "id": 2, "title": "Phone", "price": 800 },
-  { "id": 3, "title": "Headphones", "price": 150 }
+  { "id": 1, "title": "Laptop", "price": "1200 EUR" },
+  { "id": 2, "title": "Phone", "price": "800 EUR" },
+  { "id": 3, "title": "Headphones", "price": "150 EUR" }
 ]
